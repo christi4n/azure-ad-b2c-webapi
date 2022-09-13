@@ -1,0 +1,23 @@
+{
+    "credentials": {
+        "tenantName": "mydevfactorynet",
+        "clientID": "016a8818-682f-4ddc-b503-a85bc5f3df7b"
+    },
+    "policies": {
+        "policyName": "B2C_1_signupsignin"
+    },
+    "resource": {
+        "scope": ["tasks.read"]
+    },
+    "metadata": {
+        "authority": "login.microsoftonline.com",
+        "discovery": ".well-known/openid-configuration",
+        "version": "v2.0"
+    },
+    "settings": {
+        "isB2C": true,
+        "validateIssuer": true,
+        "passReqToCallback": false,
+        "loggingLevel": "info"
+    }
+}
