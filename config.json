@@ -1,7 +1,7 @@
 {
     "credentials": {
         "tenantName": "mydevfactorynet",
-        "clientID": "016a8818-682f-4ddc-b503-a85bc5f3df7b"
+        "clientID": "e3032ddf-24ec-44ac-8538-0f85093f75ec"
     },
     "policies": {
         "policyName": "B2C_1_signupsignin"
